@@ -1,0 +1,28 @@
+name: Efccreative
+favicon: null
+layout_spectrum: 0.457385737914592
+typography_spectrum: 0.6702421922236681
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.3195621217601001
+  lightness: 0.6629771725274622
+  saturation: 0.3264411489944905
+  rhythmicContrast: 0.738275591051206
+purpose: []
